@@ -110,7 +110,7 @@ Create a machine learning model to classify SMS messages as Spam or Ham.
 
 ## Connect With Me
 
-LinkedIn: [[www.linkedin.com/in/surya-rajput](http://www.linkedin.com/in/surya-rajput)](https://www.linkedin.com/in/surya-rajput-84425935a/)
+LinkedIn: (https://www.linkedin.com/in/surya-rajput-84425935a/)
 
 GitHub: https://github.com/Suryarajput007/CODSOFT
 
