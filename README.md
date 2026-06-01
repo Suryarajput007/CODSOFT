@@ -15,25 +15,21 @@ This repository contains all the tasks completed during my Machine Learning Inte
 
 CODSOFT/
  Task1_Movie_Genre_Classification/
-       dataset/
        Movie_Genre_Classification.ipynb
-       screenshots/
+       screenshots
        README.md
 
  Task2_Credit_Card_Fraud_Detection/
-        dataset/
         Credit_Card_Fraud_Detection.ipynb
-        \screenshots/
+        screenshots
         README.md
 
  Task4_Spam_SMS_Detection/
-       dataset/
-       Spam_SMS_Detection.ipynb
-       screenshots/
+      Spam_SMS_Detection.ipynb
+       screenshots
        README.md
 
  Certificates/
- 
  Offer_Letter.pdf
 Completion_Certificate.pdf
 
