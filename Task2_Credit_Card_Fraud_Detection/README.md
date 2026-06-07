@@ -156,22 +156,17 @@ These metrics help measure the effectiveness of the model in detecting fraudulen
 
 ## 📁 Project Structure
 
-```text
-Credit_Card_Fraud_Detection/
+Task2_Credit_Card_Fraud_Detection/
 │
-├── dataset/
-│   └── credit_card_transactions.csv
+├── TASK 2 Screenshot/
+│   ├── image1.png
+│   ├── image2.png
+│   ├── image3.png
+│   ├── image4.png
+│   └── image5.png
 │
-├── screenshots/
-│   ├── advanced_data_analysis.png
-│   └── advanced_confusion_matrix.png
-│
-├── fraud_detection.ipynb
-├── fraud_detection.py
-├── requirements.txt
+├── Credit_Card_Fraud_Detection.ipynb
 └── README.md
-```
-
 ---
 
 ## 🛠️ Technologies Used
